@@ -1,0 +1,196 @@
+html { font-size: 10px; }
+body { font-size: 16px; }
+.background-color { background-color: rgba(249,249,249,1); }
+.background-image{background-image:url(https://design.appmachine.com/api/rawimage/6a3e3409-ad1f-11e2-9417-12313c05193e);background-position: center; background-size: cover;}
+.appButton { height: 44px; background-color: rgba(249,249,249,1); color: rgba(91,48,93,1);}
+.appTextfield { height: 44px; color: rgba(0,0,0,1); border: 1px solid rgba(249,249,249,1);}
+.appTextarea {height: 44px; color: rgba(0,0,0,1); border: 1px solid rgba(249,249,249,1);}
+.titlecolor { color: rgba(91,48,93,1); }
+.titlecolor-background { background-color: rgba(91,48,93,1); }
+.titlecolor-border { border-color: rgba(91,48,93,1); }
+.bodycolor { color: rgba(66,66,66,1); }
+.bodycolor-background { background-color: rgba(66,66,66,1); }
+.bodycolor-border { border-color: rgba(66,66,66,1); }
+.supportcolor { color: rgba(66,66,66,1); }
+.supportcolor-background { background-color: rgba(66,66,66,1); }
+.supportcolor-border { border-color: rgba(66,66,66,1); }
+.cellbackgroundcolor { color: rgba(255,255,255,0.4392157); }
+.cellbackgroundcolor-background { background-color: rgba(255,255,255,0.4392157); }
+.cellbackgroundcolor-border { border-color: rgba(255,255,255,0.4392157); }
+.cellalternatingbackgroundcolor { color: rgba(255,255,255,0.5686275); }
+.cellalternatingbackgroundcolor-background { background-color: rgba(255,255,255,0.5686275); }
+.cellalternatingbackgroundcolor-border { border-color: rgba(255,255,255,0.5686275); }
+.controlbackgroundcolor { color: rgba(249,249,249,1); }
+.controlbackgroundcolor-background { background-color: rgba(249,249,249,1); }
+.controlbackgroundcolor-border { border-color: rgba(249,249,249,1); }
+.controltextcolor { color: rgba(91,48,93,1); }
+.controltextcolor-background { background-color: rgba(91,48,93,1); }
+.controltextcolor-border { border-color: rgba(91,48,93,1); }
+html { font-family: "Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif; }
+.fontset-intro {
+font-size:15px;
+line-height:20px;
+font-style:normal;
+font-weight:600;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+color:#000000;
+}
+.fontset-h4, .fontset-h4 > a, .website-content h4, h4 {
+font-size:17px;
+line-height:23px;
+font-style:normal;
+font-weight:400;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+color:#5B305D;
+}
+.fontset-link, .website-content a, a {
+font-size:15px;
+line-height:17px;
+font-style:normal;
+font-weight:400;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+color:#000000;
+}
+.fontset-h1, .fontset-h1 > a, .website-content h1, h1 {
+font-size:35px;
+line-height:35px;
+font-style:normal;
+font-weight:400;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+color:#000000;
+}
+.fontset-body {
+font-size:15px;
+line-height:21px;
+font-style:normal;
+font-weight:400;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+color:#000000;
+}
+.fontset-clickable {
+font-size:15px;
+line-height:17px;
+font-style:normal;
+font-weight:400;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+color:#000000;
+}
+.fontset-h3, .fontset-h3 > a, .website-content h3, h3 {
+font-size:20px;
+line-height:25px;
+font-style:normal;
+font-weight:400;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+color:#5B305D;
+}
+.fontset-button {
+font-size:17px;
+line-height:22px;
+font-style:normal;
+font-weight:400;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+color:#5B305D;
+}
+.fontset-h2, .fontset-h2 > a, .website-content h2, h2 {
+font-size:30px;
+line-height:35px;
+font-style:normal;
+font-weight:400;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+color:#000000;
+}
+.fontset-support {
+font-size:14px;
+line-height:20px;
+font-style:normal;
+font-weight:400;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+color:#000000;
+}
+
+.fontset-menu {
+font-style:normal;
+font-weight:400;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+}
+
+.fontset-header {
+font-style:normal;
+font-weight:400;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+}
+.fontset-navbar {
+font-size:17px;
+line-height:17px;
+font-style:normal;
+font-weight:400;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+}
+
+.fontset-tagline {
+font-style:normal;
+font-weight:400;
+font-family:"Open Sans",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,sans-serif;
+}
+
+
+
+/* scaling options for small screens */
+@media (max-width: 319px) {
+    body .fontset-menu {
+        font-size: 1.5rem;
+    }
+    body .fontset-h1, body .website-content h1, body h1 {
+        font-size: 2.5rem;
+    }
+    body .fontset-h2, body .website-content h2, body h2 {
+        font-size: 2.2rem;
+    }
+    body .fontset-h3, body .website-content h3, body h3 {
+        font-size: 2rem;
+    }
+    body .fontset-h4, body .website-content h4, body h4 {
+        font-size: 1.8rem;
+    }
+    body .fontset-navbar{
+        font-size: 1.7rem;
+    }
+    body .fontset-header {
+        font-size: 2rem;
+    }
+    body .fontset-body {
+        font-size: 1.5rem;
+        line-height: 1.35;
+    }
+    body .fontset-button {
+        font-size: 1.5rem;
+    }
+    body .fontset-support {
+        font-size: 1.4rem;
+    }
+    body .fontset-intro {
+        font-size: 1.7rem;
+    }
+    body.fontset-link {
+        font-size: 1.6rem;
+    }
+    body .fontset-link:not(.button), body a, body .website-content a, body .fontset-clickable {
+        font-size: 1.6rem;
+        line-height: 1.35;
+    }
+    body .fontset-text {
+        font-size: 1.4rem;
+    }
+}
+
+.am-desktop .fontset-body, .am-desktop .fontset-intro, .am-desktop .fontset-link, .am-desktop .fontset-support {
+    color: #1c202b;
+}
+
+.am-desktop.background-color, .am-desktop .background-color, .am-desktop .cellBackgroundColor, .am-desktop .cellbackgroundcolor-background, .am-desktop .cellBackgroundColor-backgroundcolor, .am-desktop .cellAlternatingBackgroundColor, .am-desktop .cellalternatingbackgroundcolor-background, .am-desktop .cellAlternatingBackgroundColor-backgroundcolor {
+    background-color: transparent;
+}
+
+.am-desktop.background-image, .am-desktop .background-image {
+    background-image: none;
+}
